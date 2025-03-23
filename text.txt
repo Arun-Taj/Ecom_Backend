@@ -1,11 +1,8 @@
-aruntajpuriya1
-6tsGzNjwzNXuMzJE
 
-
-6tsGzNjwzNXuMzJE
-
-Your current IP address (103.134.217.52) has been added to enable local connectivity. Only an IP address you add to your Access List will be able to connect to your project's clusters. Add more later in Network Access.
-
-
-
-mongodb+srv://aruntajpuriya1:6tsGzNjwzNXuMzJE@cluster1.1jso6.mongodb.net/
+echo "# Ecom_Backend" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Arun-Taj/Ecom_Backend.git
+git push -u origin main
